@@ -1,0 +1,6 @@
+{
+  "name": "ASCII Reveal",
+  "description": "Interactive ASCII art reveal canvas with customizable controls and image reveal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
